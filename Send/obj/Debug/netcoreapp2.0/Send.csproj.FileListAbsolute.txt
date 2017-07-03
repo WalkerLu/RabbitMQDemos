@@ -1,0 +1,9 @@
+E:\MyCode\Open\RabbitMQDemos\Send\bin\Debug\netcoreapp2.0\Send.deps.json
+E:\MyCode\Open\RabbitMQDemos\Send\bin\Debug\netcoreapp2.0\Send.runtimeconfig.json
+E:\MyCode\Open\RabbitMQDemos\Send\bin\Debug\netcoreapp2.0\Send.runtimeconfig.dev.json
+E:\MyCode\Open\RabbitMQDemos\Send\bin\Debug\netcoreapp2.0\Send.dll
+E:\MyCode\Open\RabbitMQDemos\Send\bin\Debug\netcoreapp2.0\Send.pdb
+E:\MyCode\Open\RabbitMQDemos\Send\obj\Debug\netcoreapp2.0\Send.csproj.CoreCompileInputs.cache
+E:\MyCode\Open\RabbitMQDemos\Send\obj\Debug\netcoreapp2.0\Send.AssemblyInfo.cs
+E:\MyCode\Open\RabbitMQDemos\Send\obj\Debug\netcoreapp2.0\Send.dll
+E:\MyCode\Open\RabbitMQDemos\Send\obj\Debug\netcoreapp2.0\Send.pdb
